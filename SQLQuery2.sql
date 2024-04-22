@@ -1,0 +1,1 @@
+﻿insert into admin_login values('admin@gmail.com','admin@');
